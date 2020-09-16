@@ -1,0 +1,10 @@
+﻿@article{krzyszczyk2019precision,
+  title={The growing role of precision and personalized medicine for cancer treatment},
+  author={Krzyszczyk, Paulina and Acevedo, Alison and Davidoff, Erika J. and Timmins, Lauren M. and Marrero-Berrios, Ileana and Patel, Misaal and White, Corina and Lowe, Christopher and Sherba, Joseph J. and Hartmanshenn, Clara and O’Neill, Kate M. and Balter, Max L. and Fritz, Zachary R. and Androulakis, Ioannis P. and Schloss, Rene S. and Yarmush, Martin L.},
+  journal={Technology},
+  volume = {06},
+  number = {03n04},
+  pages={79--100},
+  year={2018},
+  publisher={World Scientific}
+}

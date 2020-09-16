@@ -1,0 +1,9 @@
+@inproceedings{balter2016system,
+  author={M. L. Balter and A. I. Chen and A. Fromholtz and A. Gorshkov and T. J. Maguire and M. L. Yarmush}, 
+  booktitle={Intelligent Robots and Systems (IROS), 2016 IEEE/RSJ International Conference on}, 
+  title={System Design and Development of a Robotic Device for Automated Venipuncture and Diagnostic Blood Cell Analysis}, 
+  year={2016}, 
+  pages={514--520}, 
+  doi={1}, 
+  month={Oct}
+}

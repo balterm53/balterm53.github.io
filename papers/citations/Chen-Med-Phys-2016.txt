@@ -1,0 +1,10 @@
+@article{chen2016multilayered,
+  title={Multilayered tissue mimicking skin and vessel phantoms with tunable mechanical, optical, and acoustic properties},
+  author={Chen, Alvin I and Balter, Max L and Chen, Melanie I and Gross, Daniel and Alam, Sheikh K and Maguire, Timothy J and Yarmush, Martin L},
+  journal={Medical physics},
+  volume={43},
+  number={6},
+  pages={3117--3131},
+  year={2016},
+  publisher={American Association of Physicists in Medicine}
+}

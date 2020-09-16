@@ -1,0 +1,8 @@
+@inproceedings{zinman2012design,
+  title={Design, Construction, and Testing of a Flying Prey Simulator},
+  author={Zinman, Adam R and Balter, Max L and Olberg, Robert and Ramasubramanian, Ashok and Hodgson, David A},
+  booktitle={ASME 2012 5th Annual Dynamic Systems and Control Conference joint with the JSME 2012 11th Motion and Vibration Conference},
+  pages={59--63},
+  year={2012},
+  organization={American Society of Mechanical Engineers}
+}

@@ -1,0 +1,12 @@
+@article{balter2015system,
+  author={M. L. Balter and A. I. Chen and T. J. Maguire and M. L. Yarmush}, 
+  journal={IEEE Transactions on Robotics}, 
+  title={The System Design and Evaluation of a 7-DOF Image-Guided Venipuncture Robot}, 
+  year={2015}, 
+  volume={31}, 
+  number={4}, 
+  pages={1044--1053}, 
+  doi={10.1109/TRO.2015.2452776}, 
+  ISSN={1552-3098}, 
+  month={Aug}
+}

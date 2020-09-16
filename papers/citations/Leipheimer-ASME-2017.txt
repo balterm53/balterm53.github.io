@@ -1,0 +1,7 @@
+@inproceedings{leipheimer2017investigating,
+  title={Investigating the Use of Structured Light Imaging for 3-D Reconstruction of the Human Forearm for Automated Venipuncture.},
+  author={Leipheimer, Josh M and Balter, Max L and Chen, Alvin I and Maguire, Tim J and Yarmush, Martin L}
+  booktitle={ASME 43rd Annual Northeast Bioengineering Conference},
+  year={2017},
+  organization={American Society of Mechanical Engineers}
+}

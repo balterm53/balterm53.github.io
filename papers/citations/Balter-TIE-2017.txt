@@ -1,0 +1,11 @@
+@article{balter2017adaptive,
+  author={M. Balter and A. Chen and T. Maguire and M. Yarmush}, 
+  journal={IEEE Transactions on Industrial Electronics}, 
+  title={Adaptive Kinematic Control of a Robotic Venipuncture Device Based on Stereo Vision, Ultrasound, and Force Guidance}, 
+  year={2017}, 
+  volume={64}, 
+  number={2}, 
+  pages={1626--1635}, 
+  doi={10.1109/TIE.2016.2557306}, 
+  ISSN={0278-0046}
+}

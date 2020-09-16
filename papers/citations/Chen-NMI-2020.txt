@@ -1,0 +1,10 @@
+@article{chen2020deep,
+  title={Deep learning robotic guidance for autonomous vascular access},
+  author={Chen, Alvin I and Balter, Max L and Maguire, Timothy J and Yarmush, Martin L},
+  journal={Nature Machine Intelligence},
+  volume={2},
+  number={2},
+  pages={104--115},
+  year={2020},
+  publisher={Nature Publishing Group}
+}

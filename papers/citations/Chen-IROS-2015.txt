@@ -1,0 +1,9 @@
+@inproceedings{chen2015real,
+  author={A. I. Chen and M. L. Balter and T. J. Maguire and M. L. Yarmush}, 
+  booktitle={Intelligent Robots and Systems (IROS), 2015 IEEE/RSJ International Conference on}, 
+  title={Real-time needle steering in response to rolling vein deformation by a 9-DOF image-guided autonomous venipuncture robot}, 
+  year={2015}, 
+  pages={2633--2638}, 
+  doi={10.1109/IROS.2015.7353736}, 
+  month={Sept}
+}

@@ -1,0 +1,10 @@
+@article{fromholtz2017design,
+  title={Design and Evaluation of a Robotic Device for Automated Tail Vein Cannulations in Rodent Models},
+  author={Fromholtz, Alex and Balter, Max L and Chen, Alvin I and Leipheimer, Josh M and Shrirao, Anil and Maguire, Timothy J and Yarmush, Martin L},
+  journal={Journal of Medical Devices},
+  volume={11},
+  number={4},
+  pages={041008},
+  year={2017},
+  publisher={American Society of Mechanical Engineers}
+}

@@ -1,0 +1,8 @@
+@inproceedings{rapoff2011relative,
+  title={Relative contributions of internal reaction forces to stresses in the great ape mandibular symphysis},
+  author={Rapoff, Andrew J and Balter, Max and Mcgraw, W Scott and Daegling, David J},
+  booktitle={American Journal of Physical Anthropology},
+  volume={144},
+  pages={248--248},
+  year={2011},
+}

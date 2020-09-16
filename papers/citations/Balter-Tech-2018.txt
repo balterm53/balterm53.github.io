@@ -1,0 +1,8 @@
+@article{balter2018automated,
+  title={Automated end-to-end blood testing at the point-of-care: Integration of robotic phlebotomy with downstream sample processing},
+  author={Balter, ML and Leipheimer, JM and Chen, AI and Shrirao, A and Maguire, TJ and Yarmush, ML},
+  journal={Technology},
+  pages={1--8},
+  year={2018},
+  publisher={World Scientific}
+}

@@ -1,0 +1,6 @@
+@article{balter2012design,
+  title={The Design, Construction, and Application of a 3D Flying Prey Simulator to Aid in the Investigation of Neuronal Control in Dragonflies},
+  author={Balter, Max and Zinman, Adam},
+  journal={2012 NCUR},
+  year={2012}
+}

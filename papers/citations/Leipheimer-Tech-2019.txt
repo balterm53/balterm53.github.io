@@ -1,0 +1,11 @@
+﻿@article{leipheimerk2019FirstinHuman,
+  title={First-in-human evaluation of a hand-held automated
+  venipuncture device for rapid venous blood draws},
+  author={Leipheimer, Josh M. and Balter, Max L. and Chen, Alvin I. and Pantin, Enrique J. and Davidovich, Alexander E. and Labazzo, Kristen S. and Yarmush, Martin L.},
+  journal={Technology},
+  volume = {07},
+  number = {03n04},
+  pages={1--10},
+  year={2019},
+  publisher={World Scientific}
+}

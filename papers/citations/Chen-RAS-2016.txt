@@ -1,0 +1,12 @@
+@article{ 
+  author={A. I. Chen and M. L. Balter and T. J. Maguire}, 
+  journal={IEEE Robotics Automation Magazine}, 
+  title={Developing the World's First Portable Medical Robot for Autonomous Venipuncture}, 
+  year={2016}, 
+  volume={23}, 
+  number={1}, 
+  pages={10--11}, 
+  doi={10.1109/MRA.2015.2511699}, 
+  ISSN={1070-9932}, 
+  month={March}
+}

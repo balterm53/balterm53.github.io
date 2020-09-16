@@ -1,0 +1,8 @@
+@inproceedings{chen20163d,
+  title={3D Near Infrared and Ultrasound Imaging of Peripheral Blood Vessels for Real-Time Localization and Needle Guidance},
+  author={Chen, Alvin I and Balter, Max L and Maguire, Timothy J and Yarmush, Martin L},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={388--396},
+  year={2016},
+  organization={Springer}
+}
